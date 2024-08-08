@@ -2,7 +2,8 @@
 [Knights-Oath]
 
 Introduction
-[Knights-Oath] is a role-playing game (RPG) developed in Unity. In this game, players take on the role of the main character, exploring a vast world, battling monsters
+[Knights-Oath] is a role-playing game (RPG) developed in Unity. In this game, players take on the role of the main character, exploring a vast world, battling monsters.
+
 ![Picture1](https://github.com/user-attachments/assets/4eef6338-bb34-476f-90c5-4f2a530334de)
 
 Key Features
