@@ -17,6 +17,7 @@ Movement: Use the W, A, S, D keys to move.
 Tareget: Press G to target close enemy.
 Combat: Use the mouse to attack.
 Recover: Press G to recover health.
+
 ![Picture2](https://github.com/user-attachments/assets/c48d2536-e121-41f6-8085-d74239006b87)
 
 Link game: https://hoang0311.itch.io/knights-oath
